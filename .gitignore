@@ -1,0 +1,6 @@
+__pycache__/
+data/
+downloads/
+*.csv
+*.json
+!pyrightconfig.json
